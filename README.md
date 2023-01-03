@@ -27,15 +27,15 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 
 ## Homeworks
 
-- [Homework 1](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw1/Homework1.ipynb) (Due 28.02.2020)
+- [Homework 1](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw1/Homework1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/homeworks/hw1/Homework1.ipynb) (Due 28.02.2020) 
 
-- [Homework 2](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw2/Homework2.ipynb) (Due 13.03.2020)
+- [Homework 2](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw2/Homework2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/homeworks/hw2/Homework2.ipynb) (Due 13.03.2020) 
 
 - [Homework 3](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw3/Homework3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/homeworks/hw3/Homework3.ipynb) (Due 27.03.2020)
 
 - [Homework 4](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw4/Homework4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/homeworks/hw4/Homework4.ipynb) (Due 10.04.2020)
 
-- Homework 5 (Due 24.04.2020)
+- [Homework 5](https://github.com/Aguiar16/tartu-nlp-2020/blob/master/homeworks/hw5/homework5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/homeworks/hw5/Homework5.ipynb) (Due 24.04.2020)
 
 - [Homework 6](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw6/Homework6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/homeworks/hw6/Homework6.ipynb) (Due 15.05.2020)
 
